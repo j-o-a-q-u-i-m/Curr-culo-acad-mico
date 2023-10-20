@@ -1,0 +1,48 @@
+<html>
+
+<head>
+   <Currículo acadêmico</title>
+</head>
+
+<body>
+   <font face="Arial">
+   <h1>Dados pessoais</h1>
+   
+   
+   Nome:José Eduardo Leite da Silva<br>
+   E-mail:e.leite@aluno.ifsp.edu.br<br>
+   Prontuário:CB3023656<br><br>
+   <hr>
+
+   <h1>Currículo acadêmico</h1>
+
+   <ol>
+  <li>Unidade Municipal Doutor Fernando Costa-2014</li>
+  <li>Unidade Municipal Doutor Fernando Costa-2015</li>
+  <li>Unidade Municipal Doutor Fernando Costa-2016</li>
+  <li>Unidade Municipal Doutor Fernando Costa-2017</li>
+  <li>Unidade Municipal Doutor Fernando Costa-2018</li>
+  <li>EMEF Lions Clube-2019</li>
+  <li>EMEF Lions Clube-2020</li>
+  <li>EMEF Lions Clube-2021</li>
+  <li>EMEF Lions Clube-2022</li>
+ 
+   <hr>
+
+   Hobbies:<br>
+   <ul>
+   <li>Jogar no videogame</li>
+   <li>Ler</li>
+   <li>Assistir filmes ou séries</li><br>
+   </ul>
+
+   Jogos favoritos:<br>
+   <ol>
+   <li>Sekiro</li>
+   <li>Dark Souls 3</li>
+   <li>Resident Evil 7</li>
+   </ol>
+   </font>
+</body>
+
+</html>
